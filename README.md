@@ -5,6 +5,12 @@ Simple Table Sorter
 
 Version 1.0
 
+License
+-------
+
+The tableSort Simple Table Sorter jQuery plugin is licensed under the MIT license. See the LICENSE
+file for full details.
+
 ---------
 
 Example Usage
@@ -151,12 +157,6 @@ or come up with your own custom sort function, but the presence of the
 `data-sort-value` attribute tells the plugin to use the value of the
 attribute as the basis of the sort.
 
-
-License
--------
-
-The tableSort Simple Table Sorter jQuery plugin is licensed under the MIT license. See the LICENSE
-file for full details.
 
 
 
